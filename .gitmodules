@@ -1,6 +1,6 @@
 [submodule "vastfmt"]
 	path = vastfmt
-	url = https://github.com/Materdaddy/vastfmt.git
+	url = https://github.com/fatpelt/vastfmt.git
 [submodule "jq"]
 	path = jq
 	url = https://github.com/stedolan/jq.git
